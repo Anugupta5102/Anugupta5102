@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a final year **Information Technology** student at **Bansal Institute of Engineering and Technology**, passionate about coding and building innovative solutions. I love learning new technologies and applying them in real-world projects. Currently, I'm focusing on **software development, web development**, and **database management**.
 
-![Profile Banner](https://media.giphy.com/media/d2lcHJTG5Tscg/giphy.gif)
+![Profile Banner](https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif?cid=ecf05e47iew9ki39yjiekt5agbccoe5jkijsi13tscmb01ch&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 🔭 Current Projects
 - **Tourista**: A travel website developed with the MERN stack, including features like collaborative planning and crowdsourced destination insights.
@@ -21,18 +21,6 @@ Welcome to my GitHub profile! I'm a final year **Information Technology** studen
 
 ### 💬 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/anushree-gupta/)  
-- [Twitter](https://twitter.com/yourhandle) *(Optional)*  
-- [Portfolio](https://yourportfolio.com) *(Optional)*  
-
----
-
-### 📈 GitHub Stats
-![Anushree's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushree-gupta&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-### ✨ Skills & Technologies
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -54,7 +42,3 @@ Welcome to my GitHub profile! I'm a final year **Information Technology** studen
 If you have any questions, want to collaborate, or just want to chat about tech, feel free to reach out!
 
 ---
-
-### 🏆 My GitHub Activity in Action:
-![Anushree’s GitHub Activity](https://activity-graph.herokuapp.com/graph?username=anushree-gupta&theme=github&hide_border=true&area=true)
-
