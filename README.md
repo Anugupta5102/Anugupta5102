@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! I'm Anushree Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif" width="300" alt="Developer Banner" />
 </p>
 
 <p align="center">
-  💻 Final Year IT Student | Full-Stack Developer | Tech Enthusiast | Open to Opportunities  
+  🚀 Final Year IT Student | 🌐 Tech Explorer | Open to Opportunities 
 </p>
 
 ---
@@ -14,18 +14,17 @@
 
 - 🎓 Final Year B.Tech (IT) @ **BIET Lucknow** | 81%
 - 💡 Passionate about building scalable software and user-centric solutions
-- 💬 Exploring **Generative AI**, **Cloud Computing**, and **TTS Systems**
+- 💬 Exploring **Generative AI**, **Cloud Computing**
 - 🧰 Problem Solver | Tech Blogger | Hackathon Enthusiast
 
 ---
 
-### 🛠️ Technical Skills
+### ⚙️ Tech Stack
 
-**Languages:** Java, Python, C  
-**Web Development:** HTML5, CSS3, JavaScript  
-**Frameworks & Libraries:** Spring Boot, JDBC, Bootstrap, Node.js  
-**Database & APIs:** MySQL, RESTful APIs, Postman  
-**Core CS Concepts:** DSA, OOP, DBMS, Operating Systems
+- 💻 **Languages**: Java · Python · C
+- 🌐 **Web Development**: HTML5 · CSS3 · JavaScript · Bootstrap
+- 🔧 **Backend & Tools**: Spring Boot · JDBC · Node.js
+- 🗄️ **Database & APIs**: MySQL · RESTful APIs · Postman
 
 ---
 
@@ -49,49 +48,31 @@
 
 ---
 
-### 👩‍💼 Roles & Responsibilities
-
-- 📌 **Student Placement Cell Coordinator** (Sep 2024 – Present)  
-  ➤ Facilitated 5+ drives; helped 50+ students get placed
-
-- 🖥️ **Secretary, CSI - Computer Society of India** (Jun 2023 – Jan 2024)  
-  ➤ Conducted 8+ events | Organized Hackathon with 120+ participants
-
----
-
-### 🏆 Achievements
-
-- 🏅 **Gold Badge (Java)** & **Silver Badge (SQL)** on HackerRank  
-- 🧠 Solved **200+ DSA problems** on LeetCode  
-- ⚔️ Participant in **Flipkart Grid** Coding Competition
-
----
-
 ### 📜 Certifications
 
-- 🧠 *Fundamentals of Generative AI* – Microsoft Learn  
-- 🤖 *Machine Learning on AWS* – Coursera  
-- 🐍 *Google Crash Course on Python* – Coursera  
+- 🤖 *Machine Learning on AWS* – Coursera
+- 🧠 *Fundamentals of Generative AI* – Microsoft Learn
+- 🐍 *Google Crash Course on Python* – Coursera
 - ☁️ *Cloud Computing* – EC-Council
 
 ---
 
 ### 🎓 Education
 
-- 🎓 **B.Tech in Information Technology** | BIET, Lucknow (2021–2025) – *81%*  
-- 🏫 **Intermediate** | Mount Carmel College, Lucknow – *86.2%*  
-- 📘 **High School** | Mount Carmel College, Lucknow – *91%*
+- **B.Tech in IT** – Bansal Institute of Engineering, Lucknow (2021–2025) – 81%
+- **Intermediate (12th)** – Mount Carmel College, Lucknow (2020–2021) – 86.2%
+- **High School (10th)** – Mount Carmel College, Lucknow (2018–2019) – 91%
 
 ---
 
-### 🤝 Let’s Connect!
+### 🤝 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/anushree-gupta/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:anushree.gupta@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -99,7 +80,7 @@
 
 ### ✨ Fun Fact
 
-> I build things that are meaningful, accessible, and enjoyable – and love turning coffee ☕ into clean, working code!
+> I turn ☕ into code, bugs into features, and ideas into interactive experiences ✨
 
 ---
 
