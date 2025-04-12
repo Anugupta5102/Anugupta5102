@@ -1,44 +1,106 @@
-# Hi there! I'm Anushree Gupta 👋
+<h1 align="center">Hi there! I'm Anushree Gupta 👋</h1>
 
-Welcome to my GitHub profile! I'm a final year **Information Technology** student at **Bansal Institute of Engineering and Technology**, passionate about coding and building innovative solutions. I love learning new technologies and applying them in real-world projects. Currently, I'm focusing on **software development, web development**, and **database management**.
+<p align="center">
+  <img src="https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif" width="80%" />
+</p>
 
-![Profile Banner](https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif?cid=ecf05e47iew9ki39yjiekt5agbccoe5jkijsi13tscmb01ch&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-### 🔭 Current Projects
-- **Tourista**: A travel website developed with the MERN stack, including features like collaborative planning and crowdsourced destination insights.
-- **OCR Web App**: A web-based Optical Character Recognition tool for Hindi and English text, achieving 95% accuracy.
-
-### 🌱 I'm currently learning:
-- **Generative AI**: Exploring how AI can generate new content and provide recommendations.
-- **Fine-tuning TTS Models**: Working on improving text-to-speech systems, focusing on technical jargon and regional languages.
-
-### 🤔 I'm open to opportunities in:
-- **Software Development**
-- **Data Engineering**
-- **Web Development**
+<p align="center">
+  💻 Final Year IT Student | Full-Stack Developer | Tech Enthusiast | Open to Opportunities  
+</p>
 
 ---
 
-### 💬 Let's connect!
-- [LinkedIn](https://www.linkedin.com/in/anushree-gupta/)  
+### 🧑‍💻 About Me
+
+- 🎓 Final Year B.Tech (IT) @ **BIET Lucknow** | 81%
+- 💡 Passionate about building scalable software and user-centric solutions
+- 💬 Exploring **Generative AI**, **Cloud Computing**, and **TTS Systems**
+- 🧰 Problem Solver | Tech Blogger | Hackathon Enthusiast
 
 ---
 
-### ⚡ Fun fact:
-- I once solved **200+ problems** on **LeetCode** and **HackerRank**, and earned gold and silver badges in **Java** and **SQL**.  
-- Participated in **Flipkart Grid** and honed my competitive programming skills.
+### 🛠️ Technical Skills
+
+**Languages:** Java, Python, C  
+**Web Development:** HTML5, CSS3, JavaScript  
+**Frameworks & Libraries:** Spring Boot, JDBC, Bootstrap, Node.js  
+**Database & APIs:** MySQL, RESTful APIs, Postman  
+**Core CS Concepts:** DSA, OOP, DBMS, Operating Systems
 
 ---
 
-### Certifications 📜
-- **Machine Learning on AWS** | Coursera  
-- **Fundamentals of Generative AI** | Microsoft Learn  
-- **Google’s Crash Course on Python** | Coursera  
-- **Cloud Computing** | EC-Council
+### 🚀 Projects
+
+#### 🌍 [Tourista](#) – *HTML5, CSS, JavaScript*
+> A web-based travel platform offering trip customization, interactive maps, and local insights.  
+> 📦 Features: Packing list generator, location-based suggestions, and service access.
+
+#### 🏨 [HostMate](#) – *Java, Spring Boot, MySQL, Thymeleaf*
+> MVC-based hotel management system with secure admin access and RESTful APIs.  
+> 🔒 Spring Security | 🧾 Modules: Room, Guest, Reservation Management.
+
+#### 📚 [BookVault](#) – *Java, JDBC, MySQL*
+> Role-Based Access Library System with CRUD, due date tracking, and genre search.  
+> 📖 Persistent backend using MySQL.
+
+#### ✉️ [VoxMail](#) – *Python*
+> Voice-controlled email client for the visually impaired using speech-to-text.  
+> 🗣️ Powered by speech recognition APIs for seamless interaction.
 
 ---
 
-### 📬 Reach out to me:
-If you have any questions, want to collaborate, or just want to chat about tech, feel free to reach out!
+### 👩‍💼 Roles & Responsibilities
+
+- 📌 **Student Placement Cell Coordinator** (Sep 2024 – Present)  
+  ➤ Facilitated 5+ drives; helped 50+ students get placed
+
+- 🖥️ **Secretary, CSI - Computer Society of India** (Jun 2023 – Jan 2024)  
+  ➤ Conducted 8+ events | Organized Hackathon with 120+ participants
 
 ---
+
+### 🏆 Achievements
+
+- 🏅 **Gold Badge (Java)** & **Silver Badge (SQL)** on HackerRank  
+- 🧠 Solved **200+ DSA problems** on LeetCode  
+- ⚔️ Participant in **Flipkart Grid** Coding Competition
+
+---
+
+### 📜 Certifications
+
+- 🧠 *Fundamentals of Generative AI* – Microsoft Learn  
+- 🤖 *Machine Learning on AWS* – Coursera  
+- 🐍 *Google Crash Course on Python* – Coursera  
+- ☁️ *Cloud Computing* – EC-Council
+
+---
+
+### 🎓 Education
+
+- 🎓 **B.Tech in Information Technology** | BIET, Lucknow (2021–2025) – *81%*  
+- 🏫 **Intermediate** | Mount Carmel College, Lucknow – *86.2%*  
+- 📘 **High School** | Mount Carmel College, Lucknow – *91%*
+
+---
+
+### 🤝 Let’s Connect!
+
+<p>
+  <a href="https://www.linkedin.com/in/anushree-gupta/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anushree.gupta@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> I build things that are meaningful, accessible, and enjoyable – and love turning coffee ☕ into clean, working code!
+
+---
+
+⭐ _Thanks for stopping by! Don’t forget to check out my repositories and leave a star if you like them!_
