@@ -23,7 +23,7 @@
 
 - 💻 **Languages**: Java · Python · C
 - 🌐 **Web Development**: HTML5 · CSS3 · JavaScript · Bootstrap
-- 🔧 **Backend & Tools**: Spring Boot · JDBC · Node.js
+- 🔧 **Backend & Tools**: Spring Boot · JDBC 
 - 🗄️ **Database & APIs**: MySQL · RESTful APIs · Postman
 
 ---
