@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Final Year B.Tech (IT) @ **BIET Lucknow** | 81%
+- 🎓 Recent B.Tech (IT) Graduate @ **BIET Lucknow** | 81%
 - 💡 Passionate about building scalable software and user-centric solutions
 - 💬 Exploring **Generative AI**, **Cloud Computing**
 - 🧰 Problem Solver | Tech Blogger | Hackathon Enthusiast
