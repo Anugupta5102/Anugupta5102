@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Final Year IT Student | 🌐 Tech Explorer | Open to Opportunities 
+  🚀 B.Tech IT Graduate | 🌐 Tech Explorer | Open to Opportunities 
 </p>
 
 ---
