@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Anushree Gupta 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/vZYfF2tMe8I9R3hJaX/giphy.gif" width="300" alt="Developer Banner" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFsMXU0bWtnOXA4eGxjcGppbmNzODlvNTluZGxtbWtpdnQ2MW96ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Ut7zeRXCmxc0td7N68/giphy.gif" width="300" alt="Developer Banner" />
 </p>
 
 <p align="center">
