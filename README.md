@@ -12,61 +12,56 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Recent B.Tech (IT) Graduate @ **BIET Lucknow** | 81%
-- 💡 Passionate about building scalable software and user-centric solutions
-- 💬 Exploring **Generative AI**, **Cloud Computing**
-- 🧰 Problem Solver | Tech Blogger | Hackathon Enthusiast
+- 🎓 B.Tech (Information Technology) | 2025 Graduate from **BIET, Lucknow** – 81%
+- 💡 Passionate about building scalable software and real-world solutions
+- 🔍 Exploring **Generative AI**, **Cloud Computing**, and **Cybersecurity**
+- 🧠 Curious, Collaborative & Continuously Learning
 
 ---
 
 ### ⚙️ Tech Stack
 
 - 💻 **Languages**: Java · Python · C
-- 🌐 **Web Development**: HTML5 · CSS3 · JavaScript · Bootstrap
-- 🔧 **Backend & Tools**: Spring Boot · JDBC 
-- 🗄️ **Database & APIs**: MySQL · RESTful APIs · Postman
+- 🌐 **Frontend**: HTML5 · CSS3 · JavaScript · Bootstrap
+- 🔧 **Backend**: Spring Boot · JDBC
+- 🗄️ **Database & Tools**: MySQL · REST APIs · Postman · Git
 
 ---
 
-### 🚀 Projects
+### 🚀 Highlighted Projects
 
-#### 🌍 [Tourista](#) – *HTML5, CSS, JavaScript*
-> A web-based travel platform offering trip customization, interactive maps, and local insights.  
-> 📦 Features: Packing list generator, location-based suggestions, and service access.
+#### 🏨 **HostMate** – Java, Spring Boot, MySQL, Thymeleaf  
+> Hotel Management System with secure admin access and modular design.  
+> Features: Room/Guest/Reservation modules, Spring Security, MVC-based REST APIs
 
-#### 🏨 [HostMate](#) – *Java, Spring Boot, MySQL, Thymeleaf*
-> MVC-based hotel management system with secure admin access and RESTful APIs.  
-> 🔒 Spring Security | 🧾 Modules: Room, Guest, Reservation Management.
+#### ✉️ **VoxMail** – Python  
+> Voice-controlled email client for the visually impaired using speech recognition APIs.
 
-#### 📚 [BookVault](#) – *Java, JDBC, MySQL*
-> Role-Based Access Library System with CRUD, due date tracking, and genre search.  
-> 📖 Persistent backend using MySQL.
-
-#### ✉️ [VoxMail](#) – *Python*
-> Voice-controlled email client for the visually impaired using speech-to-text.  
-> 🗣️ Powered by speech recognition APIs for seamless interaction.
+#### 📚 **BookVault** – Java, JDBC, MySQL  
+> Library management system with CRUD, login authentication, and genre search.
 
 ---
 
 ### 📜 Certifications
 
-- 🤖 *Machine Learning on AWS* – Coursera
-- 🧠 *Fundamentals of Generative AI* – Microsoft Learn
-- 🐍 *Google Crash Course on Python* – Coursera
-- ☁️ *Cloud Computing* – EC-Council
-- 🌐 *Full Stack Development* - Infosys Springboard
+- 🧠 **Generative AI Fundamentals** – Microsoft Learn  
+- ☁️ **Cloud Computing** – EC-Council  
+- 🤖 **Machine Learning on AWS** – Coursera  
+- 🐍 **Google Crash Course on Python** – Coursera  
+- 🌐 **Full Stack Development** – Infosys Springboard
+- 🛡️ **Cybersecurity** - Mastercard
 
 ---
 
 ### 🎓 Education
 
-- **B.Tech in IT** – Bansal Institute of Engineering, Lucknow (2021–2025) – 81%
-- **Intermediate (12th)** – Mount Carmel College, Lucknow (2020–2021) – 86.2%
-- **High School (10th)** – Mount Carmel College, Lucknow (2018–2019) – 91%
+- 🎓 **B.Tech (IT)** – BIET, Lucknow (2021–2025) – 81%  
+- 🏫 **12th** – Mount Carmel College, Lucknow – 86.2%  
+- 🏫 **10th** – Mount Carmel College, Lucknow – 91%
 
 ---
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anushree-gupta/" target="_blank">
@@ -75,14 +70,17 @@
   <a href="mailto:anushree.gupta@email.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Anugupta5102" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
 </p>
 
 ---
 
 ### ✨ Fun Fact
 
-> I turn ☕ into code, bugs into features, and ideas into interactive experiences ✨
+> I turn ☕ into code, bugs into features, and ideas into user-friendly products ✨
 
 ---
 
-⭐ _Thanks for stopping by! Don’t forget to check out my repositories and leave a star if you like them!_
+⭐ _Thanks for visiting! Don’t forget to check out my repositories and leave a star ⭐ if you find them helpful!_
