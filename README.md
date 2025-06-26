@@ -30,15 +30,21 @@
 
 ### 🚀 Highlighted Projects
 
-#### 🏨 **HostMate** – Java, Spring Boot, MySQL, Thymeleaf  
-> Hotel Management System with secure admin access and modular design.  
-> Features: Room/Guest/Reservation modules, Spring Security, MVC-based REST APIs
+#### 🌍 [Tourista](#) – *HTML5, CSS, JavaScript*
+> A web-based travel platform offering trip customization, interactive maps, and local insights.  
+> 📦 Features: Packing list generator, location-based suggestions, and service access.
 
-#### ✉️ **VoxMail** – Python  
-> Voice-controlled email client for the visually impaired using speech recognition APIs.
+#### 🏨 [HostMate](#) – *Java, Spring Boot, MySQL, Thymeleaf*
+> MVC-based hotel management system with secure admin access and RESTful APIs.  
+> 🔒 Spring Security | 🧾 Modules: Room, Guest, Reservation Management.
 
-#### 📚 **BookVault** – Java, JDBC, MySQL  
-> Library management system with CRUD, login authentication, and genre search.
+#### 📚 [BookVault](#) – *Java, JDBC, MySQL*
+> Role-Based Access Library System with CRUD, due date tracking, and genre search.  
+> 📖 Persistent backend using MySQL.
+
+#### ✉️ [VoxMail](#) – *Python*
+> Voice-controlled email client for the visually impaired using speech-to-text.  
+> 🗣️ Powered by speech recognition APIs for seamless interaction.
 
 ---
 
