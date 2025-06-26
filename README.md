@@ -56,6 +56,7 @@
 - 🐍 **Google Crash Course on Python** – Coursera  
 - 🌐 **Full Stack Development** – Infosys Springboard
 - 🛡️ **Cybersecurity** - Mastercard
+- 📜 **Java Fullstack Devloper** - Infosys Springboard
 
 ---
 
