@@ -54,6 +54,7 @@
 - 🧠 *Fundamentals of Generative AI* – Microsoft Learn
 - 🐍 *Google Crash Course on Python* – Coursera
 - ☁️ *Cloud Computing* – EC-Council
+- 🌐 *Full Stack Development* - Infosys Springboard
 
 ---
 
