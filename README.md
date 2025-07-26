@@ -71,7 +71,7 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/anushree-gupta/" target="_blank">
+  <a href="https://www.linkedin.com/in/anushree-gupta5102/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="mailto:anugupta5102@gmail.com">
