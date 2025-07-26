@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech (Information Technology) | 2025 Graduate from **AKTU, Lucknow** – 81%
+- 🎓 B.Tech (Information Technology) | 2025 Graduate from **AKTU, Lucknow** – 8.5/10 CGPA
 - 💡 Passionate about building scalable software and real-world solutions
 - 🔍 Exploring **Generative AI**, **Cloud Computing**, and **Cybersecurity**
 - 🧠 Curious, Collaborative & Continuously Learning
